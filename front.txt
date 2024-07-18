@@ -1,0 +1,6 @@
+    <!DOCTYPE html>
+    <html>
+    <body>
+
+    <!-- 画像を重ねて配置 --><div style="position: relative;">
+    
